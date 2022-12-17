@@ -1,4 +1,4 @@
 package com.nelumbo.test.entity;
 
-public class vehicle {
+public class Vehicle {
 }
